@@ -1,20 +1,24 @@
 # PowerBi-Sales-Customer-Insight-Project
-## 📊 Sales Analysis Dashboard – Power BI
+## 📊 Power BI Report
 
-### Problem Statement
-Analyze sales performance by region, category, and time.
+Due to GitHub’s file size limitations, the Power BI (.pbix) file is hosted on Google Drive.
 
-### Tools Used
+🔗 **Download the PBIX file:**  
+https://drive.google.com/file/d/15-v9G8mViFE7m9vJER4diSZV5rjWDE4W/view?usp=drive_link
+
+### 📌 Project Overview
+This Power BI report demonstrates data analysis and visualization using Power BI and DAX.  
+It includes interactive dashboards designed to provide actionable insights.
+
+### 📂 Contents
+- Interactive dashboards
+- DAX measures
+- Data model
+
+### 🛠 Tools & Technologies
 - Power BI
 - DAX
-- Excel
-
-### Key Insights
-- West region contributes 38% of total sales
-- Technology category has highest profit margin
-
-### Dashboard Preview
-(Add screenshot here)
+- SQL (if applicable)
 
 ### Author
 Aritra Chowdhury
